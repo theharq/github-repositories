@@ -21,6 +21,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'we-call'
 # A fast JSON parser
 gem 'oj'
+# Pagination
+gem 'pagy'
 
 
 # Reduces boot times through caching; required in config/boot.rb
