@@ -1,24 +1,11 @@
-# README
+# Github Repos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple Rails 5.2 app that will search repositories on Github in the V3 of their API.
 
-Things you may want to cover:
+### Notes:
 
-* Ruby version
+I intentionally didn't use the Github's official gem [octokit](https://github.com/octokit/octokit.rb) because I wanted to have an excuse to use [WeCall](https://github.com/wework/we-call-gem).
 
-* System dependencies
+YAGNI and KISS principles, as an educational 'refresher' of using Rails rendering HTML views.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[DEMO](https://search-repos.herokuapp.com/)
